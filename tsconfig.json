@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "experimentalDecorators": true
+    },
+    "files": [
+        "src/app.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
